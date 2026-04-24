@@ -321,12 +321,12 @@ export default function SignInPage() {
         margin-inline-start:0px;
         margin-left:0px;
         margin-right:0px;
-        margin-top:20px;
+        margin-top:8px;
         max-width:500px;
         padding-bottom:10px;
         padding-left:0px;
         padding-right:0px;
-        padding-top:10px;
+        padding-top:8px;
         text-align:center;
         text-size-adjust:100%;
         unicode-bidi:isolate;
